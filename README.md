@@ -1,1 +1,1 @@
-# csc-chess
+# crc-chess
